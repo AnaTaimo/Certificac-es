@@ -1,2 +1,2 @@
-# Certificac-es
-Neste repositorios as apresento certificações, as quais obtive nos cursos em que eu tive oportunidade de participar.
+# Certificates
+In this repository I present certifications, which I obtained in the courses in which I had the opportunity to participate.
